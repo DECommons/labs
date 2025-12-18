@@ -43,7 +43,7 @@ nav:
       - '1. Intro to Data Engineering': term-1/101-data-engineering/01-intro.md
     - '102 - Python for Data Engineering (Intro)':
       - '1. Intro to Programming with Python': term-1/102-python-intro/01-intro.md
-    - '103 - SQL for Analysis (Intro)':
+    - '103 - SQL for Data Engineering (Intro)':
       - '1. Intro to SQL': term-1/103-sql-intro/01-intro.md
     - '104 - Developer Toolkit':
       - '1. Introduction to Development': term-1/104-developer-toolkit/01-intro.md
