@@ -9,7 +9,7 @@ We will not be building complex cloud pipelines yet. Instead, we are learning th
 
 This term is broken down into four specific courses.
 
-### [101 - Data Engineering Fundamentals](101-concepts/01-intro.md)
+### [101 - Data Engineering Fundamentals](101-data-engineer/intro-to-data-engineering/01-what-is-data.md)
 * **Focus:** Conceptual / Theory
 * **Goal:** Understand the "Game."
 * **Key Topics:**
@@ -51,4 +51,4 @@ This term is broken down into four specific courses.
 
 Let's start with the big picture.
 
-[Start Course 101: Fundamentals](101-concepts/01-intro.md){ .md-button .md-button--primary }
+[Start Course 101: Data Engineering Fundamentals](101-data-engineer/intro-to-data-engineering/01-what-is-data.md){ .md-button .md-button--primary }

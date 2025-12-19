@@ -75,4 +75,4 @@ Data Engineering is a practical skill. You cannot learn it just by reading. When
 
 There is no software to install yet. Just bring your curiosity.
 
-[Start Term 1: The Foundation](term-1/index.md){ .md-button .md-button--primary }
+[Start Term 1: The Foundation](term-1/101-data-engineering/intro-to-data-engineering/01-what-is-data.md){ .md-button .md-button--primary }

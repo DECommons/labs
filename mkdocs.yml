@@ -40,7 +40,27 @@ nav:
   - 'Term 1: Foundational':
     - 'Syllabus': term-1/index.md
     - '101 - Data Engineering Fundamentals':
-      - '1. Intro to Data Engineering': term-1/101-data-engineering/01-intro.md
+      - '1. Intro to Data Engineering': 
+        - '1. What is Data?': term-1/101-data-engineering/intro-to-data-engineering/01-what-is-data.md
+        - '2. What is Data Engineering?': term-1/101-data-engineering/intro-to-data-engineering/02-what-is-data-engineering.md
+        - '3. The Data Team': term-1/101-data-engineering/intro-to-data-engineering/03-the-data-team.md
+      - '2. The Data Ecosystem':
+        - '4. Structure and Types of Data': term-1/101-data-engineering/data-ecosystem/04-structure-types-data.md
+        - '5. OLTP vs. OLAP': term-1/101-data-engineering/data-ecosystem/05-oltp-olap.md
+        - '6. Where Data Lives': term-1/101-data-engineering/data-ecosystem/06-where-data-lives.md
+      - '3. The Data Engineering Lifecycle':
+        - '7. Data Generation': term-1/101-data-engineering/lifecycle/07-data-generation.md
+        - '8. Data Storage': term-1/101-data-engineering/lifecycle/08-data-storage.md
+        - '9. Data Ingestion': term-1/101-data-engineering/lifecycle/09-data-ingestion.md
+        - '10. Data Serving': term-1/101-data-engineering/lifecycle/10-data-serving.md
+      - '4: Core Engineering Concepts':
+        - '11. ELT vs. ETL vs. EL': term-1/101-data-engineering/core-concepts/11-elt-etl-el.md
+        - '12. Batch vs. Streaming': term-1/101-data-engineering/core-concepts/12-batch-stream.md
+        - '13. Orchestration': term-1/101-data-engineering/core-concepts/13-orchestration.md
+        - '14. Data Modeling (Basics)': term-1/101-data-engineering/core-concepts/14-data-modeling.md
+      - '5. Safety and Best Practices':
+        - '15. Data Quality': term-1/101-data-engineering/safety-best-practices/15-data-quality.md
+        - '16. Security and Governance': term-1/101-data-engineering/safety-best-practices/16-security-governance.md
     - '102 - Python for Data Engineering (Intro)':
       - '1. Intro to Programming with Python': term-1/102-python-intro/01-intro.md
     - '103 - SQL for Data Engineering (Intro)':
