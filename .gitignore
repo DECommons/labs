@@ -18,9 +18,7 @@ venv/
 
 # --- Data Engineering Lab (Massive Files) ---
 # We track the code to generate data, never the data itself.
-data/*.parquet
-data/*.csv
-data/*.db
+data/*
 pg_data/            # Postgres persistent volume mapping
 
 # --- MkDocs (The Textbook) ---
