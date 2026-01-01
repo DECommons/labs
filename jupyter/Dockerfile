@@ -24,4 +24,5 @@ RUN pip install --no-cache-dir \
     matplotlib \
     seaborn \
     faker \
-    sqlalchemy
+    sqlalchemy \
+    opendatasets
