@@ -1,4 +1,4 @@
-$ $he Build: Data Engineering Labs
+# The Build: Data Engineering Labs
 Welcome to the **Workshop** of [The Open Conduit](https://github.com/OpenConduit).
 
 This repository contains the hands-on exercises, "broken-by-design" scenarios, and containerized infrastructure that accompany [The Specs (Curriculum)](https://github.com/OpenConduit/curriculum).
