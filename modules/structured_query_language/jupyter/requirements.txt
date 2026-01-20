@@ -1,0 +1,15 @@
+# --- Data Manipulation ---
+pandas==2.1.4              # The Standard
+polars==0.20.3             # The Speedster (Updates frequently, MUST PIN)
+pyarrow==14.0.1            # Arrow memory format
+
+# --- Database & SQL ---
+psycopg2-binary==2.9.9     # Postgres Driver
+sqlalchemy==2.0.23         # ORM
+jupysql==0.10.10           # The %%sql magic (Crucial for your course)
+
+# --- Utilities & Viz ---
+matplotlib==3.8.2
+seaborn==0.13.0
+faker==22.5.0
+opendatasets==0.1.22       # Kaggle/Dataset downloader

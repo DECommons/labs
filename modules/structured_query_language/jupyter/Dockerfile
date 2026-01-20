@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook:latest
+FROM jupyter/minimal-notebook:python-3.11
 
 USER root
 
@@ -13,14 +13,5 @@ RUN rm -rf /home/jovyan/wor
 USER ${NB_UID}
 
 # Install Python Libraries
-RUN pip install --no-cache-dir \
-    jupysql \
-    pandas \
-    polars \
-    pyarrow \
-    psycopg2-binary \
-    matplotlib \
-    seaborn \
-    faker \
-    sqlalchemy \
-    opendatasets
+COPY requirements.txt /tmp/
+RUN pip install --no-cache-dir -r /tmp/requirements.txt

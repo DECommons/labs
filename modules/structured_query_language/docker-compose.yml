@@ -3,7 +3,7 @@ services:
   # SERVICE 1: The Transactional Database (Postgres 17)
   # ---------------------------------------------------------
   postgres:
-    image: postgres:17
+    image: postgres:17.2
     container_name: de-postgres
     restart: always
     environment:
